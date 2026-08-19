@@ -63,7 +63,7 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/kerston2104/Davi_AI.git](https://github.com/kerston2104/Davi_AI.git)
+git clone https://github.com/kerston2104/Davi_AI.git
 cd Davi_AI
 
 ```
@@ -85,18 +85,6 @@ venv\Scripts\activate
 
 ```bash
 pip install -r requirements.txt
-
-```
-
-**`requirements.txt`**:
-
-```text
-streamlit
-pandas
-numpy
-seaborn
-matplotlib
-scikit-learn
 
 ```
 
